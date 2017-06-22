@@ -6,11 +6,13 @@ This policy can be found at [github.com/cville/conduct](https://github.com/cvill
 
 We are dedicated to providing a safe and inclusive experience for everyone.
 
-Everyone means everyone, regardless of sex, gender identity or expression, sexual orientation, race, color, ethnicity, national origin, ancestry, disability, physical appearance, age, religion, creed, socioeconomic status, military status, or any other personal attribute. 
+Everyone means everyone, regardless of sex, gender identity or expression, sexual orientation, race, color, ethnicity, national origin, ancestry, disability, physical appearance, age, religion, creed, socioeconomic status, military status, or any other personal attribute, so long as there is no inherent conflict with a safe and inclusive environment. 
 
 We welcome authentic and challenging participation.
 
-We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any venue, including talks. Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. 
+We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any venue, including talks. 
+
+Participants violating these rules may be sanctioned or expelled from the group at the discretion of the organizers. 
 
 ---
 
