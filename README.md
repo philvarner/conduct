@@ -18,9 +18,9 @@ Participants violating these rules may be sanctioned or expelled from the group 
 
 ## Useful Phone Numbers
 
-* **Yellow Cab:** Call 434-295-4131 or text address to 434-202-5525
 * **Non-Emergency Police:** 434-970-3280
 * **Sexual Assault Resource Agency (SARA) 24-Hour Hotline:** 434-977-7273
+* **Yellow Cab:** Call 434-295-4131 or text address to 434-202-5525
 * **UVA Health System Emergency Department:** 434-924-2231
 
 ---
@@ -55,12 +55,12 @@ Presentations or similar events should not be stopped for unintentional or minor
 
 ### Taking Reports
 
-When taking a report from someone experiencing harassment, you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take. Ask for any other information if the reporter has not volunteered it (such as time and place), but do not pressure them to provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff member(s). If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
+When taking a report from someone experiencing harassment, you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take. Ask for any other information if the reporter has not volunteered it (such as time and place), but do not pressure them to provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and reported to event organizers. If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
 
 The report should include:
 
 * Identifying information (name) of the participant
-* The time you issued the warning
+* The time a warning was issued (if applicable)
 * The behavior that was in violation
 * The approximate time of the behavior (if different than the time of warning)
 * The circumstances surrounding the incident
