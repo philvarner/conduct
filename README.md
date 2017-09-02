@@ -8,7 +8,7 @@ We are dedicated to providing a safe and inclusive experience for everyone.
 
 Everyone means everyone, regardless of sex, gender identity or expression, sexual orientation, race, color, ethnicity, national origin, ancestry, disability, physical appearance, age, religion, creed, socioeconomic status, military status, or any other personal attribute, so long as there is no inherent conflict with a safe and inclusive environment. 
 
-We welcome authentic and challenging participation. A diversity of viewpoints and experiences enhances everyone's experience. 
+We welcome authentic and challenging participation. Diversity in people, viewpoints, and experiences enhances an event for everyone.
 
 We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any venue, including talks. 
 
