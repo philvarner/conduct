@@ -8,7 +8,7 @@ We are dedicated to providing a safe and inclusive experience for everyone.
 
 Everyone means everyone, regardless of sex, gender identity or expression, sexual orientation, race, color, ethnicity, national origin, ancestry, disability, physical appearance, age, religion, creed, socioeconomic status, military status, or any other personal attribute, so long as there is no inherent conflict with a safe and inclusive environment. 
 
-We welcome authentic and challenging participation. Diversity in people, viewpoints, and experiences enhances an event for everyone.
+We welcome authentic and challenging participation. Diversity in people, viewpoints, and experiences enhances an event for everyone. [more about why this is important]
 
 We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any venue, including talks. 
 
@@ -32,6 +32,12 @@ Harassment includes comments that reinforce social structures of domination (rel
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact organizers immediately.  If a participant engages in harassing behavior, the organizers must take approriate action, including warning the offender or expulsion from the group. 
 
 Organizers must be willing to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We expect participants to follow these rules at all event venues and social events. We value your attendance.
+
+---
+
+## Why Diversity and Inclusion is Important
+
+TBD
 
 ---
 
